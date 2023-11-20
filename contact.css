@@ -1,0 +1,66 @@
+#block1{
+    background-image: url("snimok.PNG");
+    background-size: cover;
+    place-content: end left;
+}
+#block1 p{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    font-size: 40pt;
+    font-weight: bold;
+}
+#block2 {
+    background-image: url("images.jpg");
+    background-size: cover;
+    place-content:start ;
+    justify-content: left;
+}
+.email{
+    margin: 10px;
+    width: 100%;
+}
+.textmessage{
+    margin: 10px;
+    width: 100%;
+}
+.buttonsend{
+    margin: 10px;
+    width: 100%;
+}
+.buttonsend input{
+    width: 100px;
+    height: 25px;
+}
+#block3{
+    background-image: url("address.PNG");
+    background-size: cover;
+    place-content:end right;
+}
+#block3 p{
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    text-align: right;
+    font-weight: bold;
+    font-size: 32pt;
+    width: 50%;
+    color: rgb(255, 255, 255);
+}
+#block4 {
+    background-image: url("mabu-vinyl.jpg");
+    background-size: cover;
+    filter: grayscale(1);
+    place-content:start right;
+}
+#block4 p {
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    text-align: right;
+    font-weight: bold;
+    font-size: 32pt;
+    width: 50%;
+    color: rgb(255, 255, 255);
+}

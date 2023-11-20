@@ -1,0 +1,75 @@
+#block1{
+/*    background-image: url("back1.PNG");
+    background-size: cover;*/
+    place-content: end left;
+}
+#block1 p{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    font-size: 40pt;
+    font-weight: bold;
+}
+#block2{
+/*    background-image: url("back1.PNG");
+    background-size: cover;*/
+    justify-content: space-between;
+    place-content: center;
+
+}
+#block2 img{
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+#block3{
+/*    background-image: url("back2.PNG");
+    background-size: cover;*/
+    place-content: end left;
+}
+#block3 p{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    font-size: 40pt;
+    font-weight: bold;
+}
+#block4{
+/*    background-image: url("back2.PNG");
+    background-size: cover;*/
+    justify-content: space-between;
+    place-content: center;
+
+}
+#block4 img {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+#block5{
+/*    background-image: url("back3.PNG");
+    background-size: cover;*/
+    place-content: end left;
+}
+#block5 p{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    font-size: 40pt;
+    font-weight: bold;
+}
+#block6{
+/*    background-image: url("back3.PNG");
+    background-size: cover;*/
+    justify-content: space-between;
+    place-content: center;
+
+}
+#block6 img {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
